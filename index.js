@@ -9,28 +9,72 @@ if ("I am a string") {
     console.log("true")
 } 
 
-if (false) {
+if ("false") {
     console.log("The boolean value false is falsey")
 }
 
-if(null) {
+if("null") {
     console.log("The null value is falsy")
 }
 
-if(undefined){
+if("undefined"){
     console.log("undefined is falsy")
 }
 
-if(0) {
-    console.log("The number 0 is falsy")
+if ("0") {
+    console.log("The number 0 is falsy (the only falsy number)")
 }
 
-if ("") {
-    console.log("The empty string is falsy")
+if (" ") {
+    console.log("The empty string is falsy (the only falsy string)")
 }
 
-// Tab 2: Number Line 
+//Tab2: Number Line
+    //Take sum of num1 and num2 using an if statement
+    //console.log (expected print)
+    //else console.log false 
 
+//test1
+if (50+51) {
+    console.log("101 is greater than 100")
+} else {
+    console.log("false")
+}
+
+//test2
+if (99-2) {
+    console.log("97 is greater than 0")
+} else {
+    console.log(false)
+}
+
+//test3
+if (0-101) {
+    console.log("101 is greater than 100")
+} else {
+    console.log(false)
+}
+
+//test4
+if (500+500) {
+    console.log("0 is equal to 0")
+} else {
+    console.log(false) 
+}
+
+//test5
+if (-1000+0) {
+    console.log("-1000 is a negative number")
+} else {
+    console.log(false) 
+}
+
+//test6
+if (-5+0) {
+    console.log("-5 is a negative number")
+} else {
+    console.log(false) 
+}
 
 
 // Tab 3: Greater than 5
@@ -128,4 +172,3 @@ if ("cake"==="cake" || "pie"==="pie") {
 } else {
     console.log(false)
 }
-
