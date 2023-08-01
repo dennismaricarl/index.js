@@ -24,7 +24,6 @@ if ("") {
     console.log("The empty string is falsy")
 }
 
-
 // Number Line 
 
 
