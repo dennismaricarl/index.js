@@ -35,14 +35,18 @@ if (" ") {
     //else console.log false
 
 //test1
-if (50+51) {
+let num1 = 50
+let num2 = 51
+if (num1 + num2) {
     console.log("101 is greater than 100")
 } else {
     console.log("false")
 }
 
 //test2
-if (99-2) {
+num1 =99
+num2 =-2
+if (num1+num2) {
     console.log("97 is greater than 0")
 } else {
     console.log(false)
