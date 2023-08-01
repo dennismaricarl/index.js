@@ -128,7 +128,7 @@ if (5 >= 5 && 5 >= 5) {
 
 //Tab 4: Pair and Compare
     //Compare param1A and param1B. Then compare param2A and param2B. 
-    //If one of the pairs (param1A and param1B) and (param2A and param2B) are strictly equal, then print true. 
+    //If one of the pairs (param1A and param1B) and (param2A and param2B) is strictly equal, then print true. 
     //Else, (if both are false) print false. 
 
 //test1
