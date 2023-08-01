@@ -32,7 +32,7 @@ if (" ") {
 //Tab2: Number Line
     //Take sum of num1 and num2 using an if statement
     //console.log (expected print)
-    //else console.log false 
+    //else console.log false
 
 //test1
 if (50+51) {
@@ -129,7 +129,7 @@ if (5 >= 5 && 5 >= 5) {
 //Tab 4: Pair and Compare
     //Compare param1A and param1B. Then compare param2A and param2B. 
     //If one of the pairs (param1A and param1B) and (param2A and param2B) are strictly equal, then print true. 
-    //If both of them are false, print false. 
+    //Else, (if both are false) print false. 
 
 //test1
 if ("cat"==="cat" || 6==="6") {
