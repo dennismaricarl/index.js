@@ -49,14 +49,15 @@ if (99-2) {
 }
 
 //test3
-if (0-101) {
+if (0+101) {
     console.log("101 is greater than 100")
 } else {
     console.log(false)
 }
 
 //test4
-if (500+500) {
+const num = 500
+if (num) {
     console.log("0 is equal to 0")
 } else {
     console.log(false) 
