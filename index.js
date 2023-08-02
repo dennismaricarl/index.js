@@ -49,14 +49,14 @@ num2 =-2
 if (num1+num2) {
     console.log("97 is greater than 0")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test3
 if (0+101) {
     console.log("101 is greater than 100")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test4
@@ -64,21 +64,21 @@ const num = 500
 if (num) {
     console.log("0 is equal to 0")
 } else {
-    console.log(false) 
+    console.log("false") 
 }
 
 //test5
 if (-1000+0) {
     console.log("-1000 is a negative number")
 } else {
-    console.log(false) 
+    console.log("false") 
 }
 
 //test6
 if (-5+0) {
     console.log("-5 is a negative number")
 } else {
-    console.log(false) 
+    console.log("false") 
 }
 
 
@@ -90,44 +90,44 @@ if (-5+0) {
 
 //test1
 if (5 >= 5 && 6 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test2
 if (10 >= 5 && 11 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test3 
 if (0 >= 5 && 0 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test4
 if (1000 >= 5 && -1000 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test5
 if (6 >= 5 && 4 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test6
 if (5 >= 5 && 5 >= 5) {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
     
 
@@ -140,7 +140,7 @@ if (5 >= 5 && 5 >= 5) {
 if ("cat"==="cat" || 6==="6") {
     console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test2 
@@ -154,26 +154,26 @@ if ("five"===5 || "dog"==="dawg") {
 if (0===false || "horse"==="horse") {
     console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test4
 if ("eight"==="eight" || "ate"==="ate") {
     console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test5
 if (11==="eleven" || "four"==="for") {
-    console.log(true)
+    console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
 
 //test6
 if ("cake"==="cake" || "pie"==="pie") {
     console.log("true")
 } else {
-    console.log(false)
+    console.log("false")
 }
